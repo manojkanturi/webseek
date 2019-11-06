@@ -1,1 +1,1 @@
-#This is a craigslist clone called... webseek.
+#This is a Web Scraper clone called... webseek.
